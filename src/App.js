@@ -22,7 +22,7 @@ function App() {
      <React.Fragment>
        <Header />
        <Content />
-      <ContactForm />
+       <ContactForm />
        <Footer />
     </React.Fragment>
   );
