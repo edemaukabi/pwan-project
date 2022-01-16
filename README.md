@@ -8,7 +8,7 @@ I created this web app with React, Vanilla CSS, Javascript, bootstrap and other 
 
 Clone or download this repository into a folder in your local machine.\
 Change directory into the root folder of this project (PWAN-BUZYDEV-PROJECT).\
-In your code editor's terminal run the commmand npm install to install this project's dependencies found in the package.son file.\
+In your code editor's terminal run the command npm install to install this project's dependencies found in the package.son file.\
 Then run the command npm start to start the application on your local machine.
 
 # Live Version
