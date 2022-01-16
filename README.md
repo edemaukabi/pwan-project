@@ -1,3 +1,22 @@
+#Buzydev assessment Project
+
+This is a one-page website with 4 links built specifically to run on the frontend 
+as part of the buzydev pwan project. 
+I created this web app with React, Vanilla CSS, Javascript, bootstrap and other peripheral technologies.
+
+#How to run this web application locally
+
+Clone or download this repository into a folder in your local machine.\
+Change directory into the root folder of this project (PWAN-BUZYDEV-PROJECT).\
+In your code editor's terminal run the commmand npm install to install this project's dependencies found in the package.son file.\
+Then run the command npm start to start the application on your local machine.
+
+#Live Version
+I have also hosted this application live. You can use or click on this link to use the application.\
+https://buzydev-pwanproject.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
